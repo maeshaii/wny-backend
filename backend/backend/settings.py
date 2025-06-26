@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'tracker',
     'shared',
     'corsheaders',
+    'user',
 ]
 
 MIDDLEWARE = [

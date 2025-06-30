@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'shared',
     'corsheaders',
     'user_mobile',
+    'api',
 ]
 
 MIDDLEWARE = [
